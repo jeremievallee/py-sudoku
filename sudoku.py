@@ -1,7 +1,6 @@
 import examples
 
-
-grid = examples.sudoku_2
+grid = examples.sudoku_1
 
 
 def showGrid(grid):
